@@ -2,6 +2,7 @@
     
 {
     using Lab6.Models;
+    using Microsoft.EntityFrameworkCore;
     public static class DbInitializer
     {
         public static void Initialize(StudentDbContext context)
