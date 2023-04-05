@@ -10,5 +10,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>Lab6.Data.StudentDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Kelsey Phillips\OneDrive - Algonquin College\Documents\Level5\CST8359 - dotNet Enterprise\Lab\repos\Lab6\Properties\PublishProfiles\KelseyPhillipsLab6 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
